@@ -10,7 +10,7 @@ namespace Asistencia.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Modifique esta plantilla para poner en marcha su aplicación ASP.NET MVC.";
+            ViewBag.Message = "Modifique esta plantillaaaaaaaaaaaa para poner en marcha su aplicación ASP.NET MVC.";
 
             return View();
         }
